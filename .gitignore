@@ -1,0 +1,14 @@
+# Tooling artifacts (bukan materi praktikum)
+.github/modernize/
+
+# Build & tool output Flutter/Gradle (berlaku di semua subfolder project)
+build/
+.dart_tool/
+.gradle/
+.cxx/
+
+# Editor / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
